@@ -1,4 +1,4 @@
-# Estudando 
+## Estudando 
 buscando melhorar minhas habilidades, sempre aprendendo coisas novas e agregando meus conhecimentos.
 
 ## 👨‍🎓🎓Aprendendo 
@@ -8,4 +8,4 @@ buscando melhorar minhas habilidades, sempre aprendendo coisas novas e agregando
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </div<br/>
  
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-639191153/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://gmail.samuelsantosdasilva.sss@gmail.com/)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-santos-639191153/)[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](samuel:samuelsantosdasilva.sss@gmail.com/)
